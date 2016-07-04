@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
+    FACEBOOK_APP_ID = ''
+    FACEBOOK_API_KEY = ''
+    FACEBOOK_SECRET_KEY = ''
 ]
 
 MIDDLEWARE_CLASSES = [
